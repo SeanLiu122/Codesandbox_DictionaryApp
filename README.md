@@ -1,2 +1,0 @@
-# iDictionary
-Created with CodeSandbox
